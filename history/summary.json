@@ -40,25 +40,26 @@
     "url": "$UPPTIME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "upptime",
-    "status": "up",
-    "uptime": "71.61%",
-    "uptimeDay": "56.07%",
-    "uptimeWeek": "63.27%",
-    "uptimeMonth": "71.61%",
-    "uptimeYear": "71.61%",
+    "status": "down",
+    "uptime": "71.99%",
+    "uptimeDay": "62.67%",
+    "uptimeWeek": "63.49%",
+    "uptimeMonth": "71.99%",
+    "uptimeYear": "71.99%",
     "time": 265,
     "timeDay": 266,
     "timeWeek": 262,
     "timeMonth": 265,
     "timeYear": 265,
     "dailyMinutesDown": {
+      "2023-10-09": 0,
       "2023-10-08": 656,
       "2023-10-07": 666,
       "2023-10-06": 394,
       "2023-10-05": 623,
       "2023-10-04": 542,
       "2023-10-03": 647,
-      "2023-10-02": 172
+      "2023-10-02": 150
     }
   }
 ]
