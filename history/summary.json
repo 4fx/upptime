@@ -6,7 +6,7 @@
     "slug": "google-dns",
     "status": "up",
     "uptime": "97.39%",
-    "uptimeDay": "4.83%",
+    "uptimeDay": "5.64%",
     "uptimeWeek": "71.28%",
     "uptimeMonth": "93.39%",
     "uptimeYear": "97.39%",
@@ -28,7 +28,7 @@
     "slug": "cloudflare-dns",
     "status": "up",
     "uptime": "97.39%",
-    "uptimeDay": "4.83%",
+    "uptimeDay": "5.64%",
     "uptimeWeek": "71.28%",
     "uptimeMonth": "93.39%",
     "uptimeYear": "97.39%",
@@ -48,14 +48,14 @@
     "url": "$UPPTIME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "upptime",
-    "status": "up",
-    "uptime": "96.31%",
-    "uptimeDay": "63.72%",
-    "uptimeWeek": "59.37%",
-    "uptimeMonth": "90.65%",
-    "uptimeYear": "96.31%",
+    "status": "down",
+    "uptime": "96.34%",
+    "uptimeDay": "63.71%",
+    "uptimeWeek": "59.60%",
+    "uptimeMonth": "90.70%",
+    "uptimeYear": "96.34%",
     "time": 253,
-    "timeDay": 275,
+    "timeDay": 274,
     "timeWeek": 258,
     "timeMonth": 244,
     "timeYear": 253,
@@ -67,7 +67,7 @@
       "2023-12-12": 602,
       "2023-12-11": 614,
       "2023-12-10": 542,
-      "2023-12-09": 313
+      "2023-12-09": 290
     }
   }
 ]
