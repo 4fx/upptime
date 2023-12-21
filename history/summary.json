@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "97.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "79.09%",
+    "uptimeWeek": "79.20%",
     "uptimeMonth": "93.39%",
     "uptimeYear": "97.57%",
     "time": 5,
@@ -29,7 +29,7 @@
     "status": "up",
     "uptime": "97.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "79.09%",
+    "uptimeWeek": "79.20%",
     "uptimeMonth": "93.39%",
     "uptimeYear": "97.57%",
     "time": 5,
@@ -48,12 +48,12 @@
     "url": "$UPPTIME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "upptime",
-    "status": "up",
-    "uptime": "96.55%",
+    "status": "down",
+    "uptime": "96.60%",
     "uptimeDay": "49.87%",
-    "uptimeWeek": "59.31%",
-    "uptimeMonth": "90.64%",
-    "uptimeYear": "96.55%",
+    "uptimeWeek": "59.88%",
+    "uptimeMonth": "90.77%",
+    "uptimeYear": "96.60%",
     "time": 246,
     "timeDay": 147,
     "timeWeek": 183,
@@ -67,7 +67,7 @@
       "2023-12-17": 481,
       "2023-12-16": 760,
       "2023-12-15": 565,
-      "2023-12-14": 247
+      "2023-12-14": 189
     }
   }
 ]
