@@ -50,23 +50,23 @@
     "slug": "upptime",
     "status": "up",
     "uptime": "97.82%",
-    "uptimeDay": "75.40%",
-    "uptimeWeek": "60.12%",
-    "uptimeMonth": "90.82%",
+    "uptimeDay": "78.15%",
+    "uptimeWeek": "60.07%",
+    "uptimeMonth": "90.81%",
     "uptimeYear": "97.82%",
     "time": 207,
-    "timeDay": 106,
-    "timeWeek": 109,
+    "timeDay": 108,
+    "timeWeek": 108,
     "timeMonth": 129,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2024-02-04": 329,
+      "2024-02-04": 314,
       "2024-02-03": 573,
       "2024-02-02": 837,
       "2024-02-01": 773,
       "2024-01-31": 731,
       "2024-01-30": 583,
-      "2024-01-29": 188
+      "2024-01-29": 208
     }
   }
 ]
